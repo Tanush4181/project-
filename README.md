@@ -1,2 +1,1 @@
-# project-26
-the recipe for making paneer tikka
+This recipe is about making Paneer Tikka 
